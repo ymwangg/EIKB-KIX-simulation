@@ -3,7 +3,7 @@
 
 This project contains the source code that reproduces the data of the following two papers: 
 
-- [Wang, Yanming, and Charles L. Brooks III. "Enhanced Sampling Applied to Modeling Allosteric Regulation in Transcription." The journal of physical chemistry letters 10.19 (2019): 5963-5968.](https://doi.org/10.1021/acs.jpclett.9b03618)
+- [Wang, Yanming, and Charles L. Brooks III. "Enhanced Sampling Applied to Modeling Allosteric Regulation in Transcription." The Journal of Physical Chemistry Letters 10.19 (2019): 5963-5968.](https://doi.org/10.1021/acs.jpclett.9b03618)
 
 - [Wang, Yanming, and Charles L. Brooks. "Electrostatic Forces Control the Negative Allosteric Regulation in a Disordered Protein Switch." The Journal of Physical Chemistry Letters (2020).](https://doi.org/10.1021/acs.jpclett.9b02226)
 
